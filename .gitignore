@@ -1,0 +1,6 @@
+# Ignore everything except editor folder
+*
+!.gitignore
+!mindmaps/
+!mindmaps/editor/
+!mindmaps/editor/**
